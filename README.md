@@ -15,7 +15,7 @@ If the Requirements are not installed it will not going to work install all the 
 
 
 
-#7) In angular's index.html file change href="/" to href="./" which is very importent.
+7) In angular's index.html file change href="/" to href="./" which is very importent.
 8) In angular.json file change build src which is "dist" to "www".
 9) Now type ng build in terminal.
 10) last step is to build android app (type in terminal "cordova build").

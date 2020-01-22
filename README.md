@@ -12,6 +12,9 @@ If the Requirements are not installed it will not going to work install all the 
 4) Now Type ng update in terminal.
 5) Now create Platform for angular Project (type in terminal "cordova platform add 'android or ios or browser'").
 6) In a Folder Named "www" there is an index.html file copy the only Script tag elements and paste it into the angular's index.html file.
+
+
+
 #7) In angular's index.html file change href="/" to href="./" which is very importent.
 8) In angular.json file change build src which is "dist" to "www".
 9) Now type ng build in terminal.

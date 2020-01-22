@@ -20,7 +20,7 @@ If the Requirements are not installed it will not going to work install all the 
 9) Now type ng build in terminal.
 10) last step is to build android app (type in terminal "cordova build").
 
-#enjoy now your android app is ready.
+#enjoy your android app is ready.
 #run android sdk manager and run any android emulator.
 
 #Just type in terminal(cordova emulate android).
